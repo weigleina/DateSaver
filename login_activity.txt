@@ -1,0 +1,5 @@
+[2021-09-30T21:46:26.377859100] 	Log file created
+[2021-09-30T21:53:26.535188100] 	[username: test] 	login SUCCESS
+[2021-09-30T21:53:53.744449200] 	[username: test] 	login FAIL
+[2021-09-30T21:57:19.871901600] 	[username: test] 	login SUCCESS
+[2021-09-30T21:58:47.161616200] 	[username: test] 	login SUCCESS
